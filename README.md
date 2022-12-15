@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wild-Chicken
 - 👀 I’m interested in: Chickens
-- 🌱 I’m currently learning: a langauage, and vbscript
+- 🌱 I’m currently learning: vbscript, (and i would like to make a msi installer, but sadly its probably the least documented thing in computer coding.)
 - 📫 How to reach me: m3ift397@duck.com
 - Join my discord server! https://discord.gg/54cbumxs2j
