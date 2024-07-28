@@ -1,5 +1,5 @@
 ### i have no reason to build garbage
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wild-chicken.badge)]
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wild-chicken.badge)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,)](https://skillicons.dev)
 
