@@ -13,11 +13,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  [![Discord Presence](https://lanyard.cnrad.dev/api/841797623270342717)](https://discord.com/users/841797623270342717)
 </div>
 
-<center>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/841797623270342717)](https://discord.com/users/841797623270342717)\
-</center>
+[![Discord Presence](https://lanyard.cnrad.dev/api/841797623270342717)](https://discord.com/users/841797623270342717)
 
 ###
 
