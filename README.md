@@ -15,8 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/841797623270342717)](https://discord.com/users/841797623270342717)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wild-chicken.wild-chicken&left_text=profile%20views"  />
-
 ###
 
 <br clear="both">
@@ -41,6 +39,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/841797623270342717)](https://discord.com/users/841797623270342717)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wild-chicken.wild-chicken&left_text=profile%20views"  />
 
 ###
 
