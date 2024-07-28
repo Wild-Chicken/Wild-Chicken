@@ -15,9 +15,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
-<div align="center">
+<center>
   [![Discord Presence](https://lanyard.cnrad.dev/api/841797623270342717)](https://discord.com/users/841797623270342717)\
-</div>
+</center>
 
 ###
 
