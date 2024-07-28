@@ -1,5 +1,5 @@
 ### i have no reason to build garbage
-![Visitor](https://visitor-badge.laobi.icu/badge?goofychickenz=Wild-Chicken.Wild-Chicken)
+![Visitor](https://visitor-badge.laobi.icu/badge?3824957345=Wild-Chicken.Wild-Chicken)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,)](https://skillicons.dev)
 
