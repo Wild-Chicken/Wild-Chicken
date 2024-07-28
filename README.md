@@ -41,7 +41,7 @@
 </div>
 
 
-
+<br><br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/841797623270342717)](https://discord.com/users/841797623270342717)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wild-chicken.wild-chicken&left_text=profile%20views"  />
 
 ###
