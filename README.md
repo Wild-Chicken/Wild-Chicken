@@ -43,4 +43,3 @@
 
 <br><br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/841797623270342717)](https://discord.com/users/841797623270342717)
-<img src="https://myreadme.vercel.app/api/embed/wild-chicken?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
